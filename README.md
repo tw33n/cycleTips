@@ -1,0 +1,4 @@
+Uygulama İçeriği Şu Şekildedir 
+- Ekran görüntüsü aracı ; kullanıcıya özel dosya oluşturur ve CTRL + ALT + S komudu ile seçtiğiniz bölmeyi Ekran Görüntüsü olarak özel dosyanın içerisine kaydeder. (Aynı zamanda aldığınız Ekran Görüntüsünü kopyalar.)
+- Blur ekleme seçeneği ; Discord, Instagram, WhatsApp farketmeksizin bu tarz uygulamalar üzerinde Ekran Paylaşımı yapmak istiyorsanız ve ekranınızda bir uygulamanın içeriğinin görünmemesini, yanlışlıkla göstermek istemiyorsanız Blur seçeneğinde o uygulamanın penceresini seçiyorsunuz, istediğiniz bölmesini seçiyorsunuz ve o bölme ekran paylaştığınızda yanlışlıkla bile gösterseniz blurlu bir şekilde gözüküyor.
+- Küçük Spotify kartçığı ; Spotify üzerinde dinlediğiniz müzik uygulama içinde özelliği aktif etmenizle birlikte küçük bir kartçık olarak istediğiniz bölgeye sürükleyebileceğiniz ve ayarlayabileceğiniz bir şekilde gözükür. Müziği durdurabilir veya değiştirebilirsiniz.  
